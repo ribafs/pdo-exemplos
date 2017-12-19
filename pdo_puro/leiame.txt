@@ -1,0 +1,4 @@
+
+Este é um exemplo extremamente simples.
+Nada de CSS, apenas o CRUD básico com o PDO para mostrar suas funções básicas.
+

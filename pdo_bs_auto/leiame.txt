@@ -1,0 +1,7 @@
+Este CRUD é feito de forma automática.
+O nome do banco e da tabela é indicado em connection.php
+
+Os nomes e a quantidade de campos são capturados através de funções de metadados do SGBD.
+Assim não precisamos indicar os nomes de campos nem sua quantidade.
+
+
