@@ -1,5 +1,7 @@
 # 4 Exemplos simples de CRUD criados com PDO
 
+Os 4 suportam tanto mysql quanto postgresql.
+
 Como o PDO é uma das melhores soluções para trabalhar com bancos de dados em PHP eu fiz uma boa pesquisa e testei vários exemplos e estou trazendo o resultado na forma destes 4 exemplos.
 
 - O mais básico usa apenas PDO, nada de css ou javascript.
