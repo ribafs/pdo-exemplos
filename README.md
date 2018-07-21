@@ -1,4 +1,7 @@
-# 4 Exemplos simples de CRUD criados com PDO
+## 4 Exemplos simples de CRUD criados com PDO
+
+# Dizendo não para o lado negro da força (MS) mudei para o GitLab. Manterei os arquivos aqui em respeito aos usuários e ao antigo GitHub mas estarei atualizando somente no GitLab daqui pra frente.
+https://gitlab.com/ribafs/pdo-exemplos
 
 Os 4 suportam tanto mysql quanto postgresql.
 
